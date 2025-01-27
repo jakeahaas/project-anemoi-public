@@ -1,0 +1,36 @@
+Privacy Policy
+Effective Date: 01/27/2025
+
+At Anemoi Systems, we take your privacy seriously. This Privacy Policy explains how we handle and protect any data that may be collected during your use of our Discord bot.
+
+1. No Personal Data Collection
+
+We do not collect, store, or process any personal information from users. Our bot does not ask for or require any personal information such as your name, email address, or any other identifiable data. We respect your privacy and ensure that no personal data is gathered.
+
+2. Usage Data
+
+The bot may log basic usage data for operational purposes, such as:
+
+Commands you use
+Server and channel identifiers
+However, this data is collected solely to ensure the bot functions correctly and to troubleshoot any issues. This information does not include any personally identifiable information and is not shared with third parties.
+
+3. Third-Party Services
+
+Our bot may interact with third-party services (such as Discord APIs) to deliver its functionality. However, these services operate under their own privacy policies, and we do not control or collect any data they may collect directly.
+
+4. Data Retention
+
+Since we do not collect any personal data, we do not retain or store any information related to users or interactions for extended periods. All logs are temporary and are used solely to ensure the bot functions correctly.
+
+5. Security
+
+We implement reasonable technical and organizational measures to protect the data we collect from unauthorized access, disclosure, or misuse. However, as with any online service, we cannot guarantee absolute security.
+
+6. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted here with an updated "Effective Date." By continuing to use the bot after changes are made, you accept and agree to the updated Privacy Policy.
+
+7. Contact Us
+
+If you have any questions or concerns regarding this Privacy Policy, please contact us at: this github account
