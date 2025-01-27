@@ -1,0 +1,53 @@
+Discord Bot Terms of Service
+Effective Date: 01/27/2025
+
+By using the Anemoi Discord bot (the "Bot"), you agree to comply with and be bound by the following Terms of Service. If you do not agree to these terms, do not use the Bot.
+
+1. Eligibility
+
+You must be at least 13 years old to use this Bot. If you are under 13, you may not use the Bot. By using the Bot, you confirm that you are at least 13 years old or have obtained parental consent to use the Bot.
+
+2. Usage and Access
+
+You are granted a limited, non-exclusive, non-transferable license to use the Bot for personal, non-commercial purposes, subject to these Terms of Service. You agree not to use the Bot for any unlawful purpose or in any way that could damage or disrupt the Bot's functionality.
+
+3. Bot Behavior
+
+While we strive to ensure the Bot functions as intended, we do not guarantee that the Bot will be available, error-free, or free from malicious activity at all times. We reserve the right to update, modify, or discontinue the Bot or any of its features without prior notice.
+
+4. Prohibited Uses
+
+You may not use the Bot to:
+
+Engage in or promote any illegal activities.
+Spam, harass, or otherwise disrupt the experience of other users.
+Attempt to exploit or modify the Bot’s functionality without authorization.
+Bypass or violate any security measures or restrictions in place to protect the Bot or its users.
+Use the Bot to collect personal data of users without consent.
+5. User Data
+
+The Bot may collect certain data to improve functionality, provide services, or maintain the Bot. This may include but is not limited to usage data, server identifiers, or command logs. We do not collect or store sensitive personal data unless specifically required for the Bot’s functionality (e.g., custom settings or commands). Please refer to our Privacy Policy for more details on data collection practices.
+
+6. Intellectual Property
+
+The Bot, including its code, functionality, and any associated content, is owned by Myself (Jake Haas). You may not copy, modify, or distribute the Bot without express permission. All trademarks and logos used in connection with the Bot are the property of their respective owners.
+
+7. Limitation of Liability
+
+To the fullest extent permitted by law, Jake Haas is not liable for any damages, losses, or injuries arising from the use of the Bot, including but not limited to data loss, interruption of service, or any other type of damage resulting from the use or inability to use the Bot.
+
+8. Termination
+
+We reserve the right to suspend or terminate access to the Bot at any time, without prior notice, for any reason, including if we believe you have violated these Terms of Service.
+
+9. Changes to Terms
+
+We may modify or update these Terms of Service from time to time. Any changes will be posted in this document with an updated "Effective Date." Continued use of the Bot after any changes to the Terms of Service constitutes your acceptance of the updated terms.
+
+10. Governing Law
+
+These Terms of Service are governed by and construed in accordance with the laws of the state of Wisconsin. Any disputes or claims arising out of these terms shall be subject to the exclusive jurisdiction of the courts in the state of Wisconsin.
+
+11. Contact Information
+
+If you have any questions about these Terms of Service, please contact us at: this github account
