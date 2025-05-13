@@ -1,7 +1,7 @@
 Privacy Policy
 Effective Date: 01/27/2025
 
-At Anemoi Systems, we take your privacy seriously. This Privacy Policy explains how we handle and protect any data that may be collected during your use of our Discord bot.
+We take your privacy seriously. This Privacy Policy explains how we handle and protect any data that may be collected during your use of our Discord bot.
 
 1. No Personal Data Collection
 
